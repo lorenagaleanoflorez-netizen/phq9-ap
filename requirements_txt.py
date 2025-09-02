@@ -11,3 +11,8 @@ Original file is located at
 !pip install scikit-learn
 !pip install pandas
 !pip install joblib
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
